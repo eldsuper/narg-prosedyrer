@@ -1,11 +1,13 @@
-############
-All about me
-############
+###########
+Aksjonsplan
+###########
 
-I'm Daniele Procida, a Django user and developer.
+Aksjonsplan
+===========
 
-I've contributed to:
-
-*   django CMS
-*   Arkestra
-*   Django
+Aksjonsplan for gjennomføring av alpine redningsaksjoner
+--------------------------------------------------------
+Bruk av prosedyren
+~~~~~~~~~~~~~~~~~~
+Det etterfølgende er en gjennomgang av de enkelte elementene i en alpin redningsaksjon fra varsling
+til debrief.
