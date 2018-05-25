@@ -388,7 +388,7 @@ Den klatreren som har ansvaret for sikringstauet (bruk hansker!) til båren
 slipper dette ut, eventuelt kutter dette så kort som mulig. Ved stor og trygg
 hylle, kan sikringstauet sløyfes og båren håndteres kun for hånd.
 
-.attention::
+.. attention::
    LF: ‘Båren er fri’
 
 NB! Den innlagte pausen i oppheisingen for å få en kontrollert utfiring, kan være vanskelig å få til.
