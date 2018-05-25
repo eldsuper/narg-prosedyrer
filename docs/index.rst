@@ -15,6 +15,7 @@ Contents:
    A-Innledning
    B-Aksjonsplan
    C-Utstyr
+   G-Helikoptersamarbeid
 
 Indices and tables
 ==================

@@ -157,11 +157,16 @@ Vi bruker fortrinnsvis bilder der det som er sentralt er markert med farger og d
 sort/hvitt:
 
 .. figure:: /images/eks_markering_obj.jpg
+   :width: 200px
    
+
+   Klargjøring av SLL.
    Eksempel på markering av objekt.
 
 .. figure:: /images/eks_markering_omrade.jpg
+   :width: 400px
    
+
    Eksempel på markering av område.
 
 
