@@ -160,7 +160,6 @@ html_static_path = ['_static']
 def setup(app):
     app.add_stylesheet('css/narg.css')  # may also be an URL
 
-
 # Add any extra paths that contain custom files (such as robots.txt or
 # .htaccess) here, relative to this directory. These files are copied
 # directly to the root of the documentation.
