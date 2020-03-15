@@ -146,7 +146,7 @@ html_theme_path = ["_themes", ]
 # of the sidebar.
 #
 # html_logo = None
-html_logo = 'images/NARG_logo_800.gif'
+html_logo = 'images/NARG_logo_small.gif'
 
 # The name of an image file (relative to this directory) to use as a favicon of
 # the docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
