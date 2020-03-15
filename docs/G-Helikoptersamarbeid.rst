@@ -342,10 +342,7 @@ LF må om nødvendig dirigere HK ut fra fjellet slik at man ikke risikerer å dr
 
 Når HK er i heiseposisjon, gjøres følgende:
 
-- I HK: Dersom Rescucender er helt oppe ved HK, kobles SLL inn på Protraxion, den ledige
-karabinen låser sideplatene i nedkant og Rescucender kan sendes ned for å ta nytt tak.
-Dersom Rescucender ikke har kommet helt opp til HK, kan båren heises ut av fjellet uten
-at Protraxion er koblet inn.
+- I HK: Dersom Rescucender er helt oppe ved HK, kobles SLL inn på Protraxion, den ledige karabinen låser sideplatene i nedkant og Rescucender kan sendes ned for å ta nytt tak. Dersom Rescucender ikke har kommet helt opp til HK, kan båren heises ut av fjellet uten at Protraxion er koblet inn.
 
 .. danger::
    På enkelte utheisingssteder er det viktig å kunne heise båren et godt stykke
@@ -356,10 +353,8 @@ at Protraxion er koblet inn.
    (overskytende tau kappes, ny knute knyttes), eventuelt at helikopteret stiger mens man gir
    ut wire på vinsjen.
 
-- Tauet legges inn på Protraxion før karabinen flyttes fra ringen til nedre hull på Protraxion. På
-denne måten har vi alltid en backup til Rescucenderen.
-- På skadestedet: Kontroller at slippstikk er løsnet og at backupslynge er fjernet. SLL kobles inn
-på svivel.
+- Tauet legges inn på Protraxion før karabinen flyttes fra ringen til nedre hull på Protraxion. På denne måten har vi alltid en backup til Rescucenderen.
+- På skadestedet: Kontroller at slippstikk er løsnet og at backupslynge er fjernet. SLL kobles inn på svivel.
 
 
 HK løfter fri båren
